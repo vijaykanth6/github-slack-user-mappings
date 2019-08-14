@@ -363,6 +363,10 @@
     {
       "github": "tchow8",
       "slack": "U3PK6K1D1"
+    },
+    {
+      "github": "dependabot-preview[bot]",
+      "slack": "iamabot"
     }
   ]
 }
