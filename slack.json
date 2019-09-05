@@ -1,5 +1,9 @@
 {
   "users": [
+     {
+      "github": "mdayican",
+      "slack": "mustafa"
+    },
     {
       "github": "alexwakeman",
       "slack": "alex.wakeman"
