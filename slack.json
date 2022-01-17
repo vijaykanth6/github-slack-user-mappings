@@ -1788,15 +1788,14 @@
       "github": "RosDiaf",
       "slack": "U02TXC11TSQ"
     },
-      {
-          "github": "prabhamuthu15",
-          "slack": "U01JUH9RDUP"
-      },
+    {
+        "github": "prabhamuthu15",
+        "slack": "U01JUH9RDUP"
+    },
     {
       "github": "Mitesh1909",
       "slack": "U014VEAJB8D"
     },
-
     {
       "github": "oliver-scott-hmcts",
       "slack": "U02TET68SQL"
@@ -1804,6 +1803,10 @@
     {
       "github": "garytaylor",
       "slack": "U6KJ63DT6"
+    },
+    {
+      "github": "TomKimber",
+      "slack": "UDVT97PD0"
     }
   ]
 }
