@@ -2168,6 +2168,14 @@
       "slack": "U033J0D118E"
     },
     {
+      "github": "duranmf",
+      "slack": "UV54HFZ0W"
+    },
+    {
+      "github": "sgecici",
+      "slack": "U039E1G7DHT"
+    },
+    {
       "github": "lucy-geddis",
       "slack": "U03B77VGHLL"
     },
@@ -2184,7 +2192,7 @@
       "slack": "U0370MD7VHT"
     },
     {
-      "github": "michaelbrownccd",
+      "github": "mikebrownccd",
       "slack": "U03DLSGAJNL"
     },
     {
@@ -2230,10 +2238,6 @@
     {
       "github": "shaunkenclark",
       "slack": "U03FCQ5PZPY"
-    },
-    {
-      "github": "mikebrownccd",
-      "slack": "U03DLSGAJNL"
     }
   ]
 }
